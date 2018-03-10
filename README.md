@@ -1,2 +1,1 @@
-# fse2018
-Supplementary artifacts for FSE 2018 submission
+# Supplementary Materials for ICSE 2018 Submission
